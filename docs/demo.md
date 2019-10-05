@@ -16,7 +16,7 @@ blad blad blad
 
 - [X] lista de chequeo 1
 
-[ ] lista de chequeo 2
+- [X] lista de chequeo 2
 
 ## Subtitulo 3
 
